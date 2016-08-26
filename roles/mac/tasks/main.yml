@@ -1,0 +1,5 @@
+---
+- include: bash.yml
+- include: vim.yml
+- include: node.yml
+- include: ruby.yml
